@@ -1,8 +1,27 @@
 aid: exporo
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/exporo.png
 name: Exporo
-description: 'Exporo is a company surfaced as a portfolio company of partech and added to the API Evangelist
-  network as a stub for enrichment. Sector: Financial Services. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Exporo is a Hamburg, Germany-based digital investment platform for real
+  estate and renewable-energy infrastructure, operating as a regulated European Crowdfunding
+  Service Provider (ECSP). The platform lets private investors participate in residential
+  and commercial property development as well as clean-energy projects such as solar,
+  with typical terms of 12-36 months. Exporo has mediated over EUR 1.17 billion of
+  capital across more than 600 financed projects, and also offers Club Deals for larger
+  qualified investors. It was surfaced as a portfolio company of Partech and added
+  to the API Evangelist network. No public developer API or developer portal is currently
+  published; this profile is maintained as a company lead and will be enriched if a
+  developer surface appears.'
 url: https://raw.githubusercontent.com/api-evangelist/exporo/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Financial Services
+- Real Estate
+- Investing
+- Crowdfunding
+- Fintech
+- Renewable Energy
+- Germany
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,20 @@ maintainers:
 common:
 - type: Website
   url: https://exporo.com/
+- type: Blog
+  url: https://exporo.com/blog
+- type: Support
+  url: https://exporo.com/hilfe
+- type: TermsOfService
+  url: https://exporo.com/agb
+- type: PrivacyPolicy
+  url: https://exporo.com/datenschutz
+- type: LLMsTxt
+  url: llms/exporo-llms.txt
+- type: DomainSecurity
+  url: security/exporo-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

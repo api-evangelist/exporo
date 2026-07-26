@@ -1,0 +1,31 @@
+# Exporo
+
+> Exporo is a Hamburg, Germany-based digital investment platform for real estate and renewable-energy infrastructure. It operates as a regulated European Crowdfunding Service Provider (ECSP), letting private investors participate in property development and clean-energy projects. Exporo has mediated over €1.17 billion of capital across more than 600 financed projects. No public developer API or developer portal is published at this time.
+
+## About
+
+- Company: Exporo
+- Sector: Financial Services (real estate / renewable-energy crowdinvesting)
+- Headquarters: Hamburg, Germany
+- Regulatory model: European Crowdfunding Service Provider (ECSP)
+- Website: https://exporo.com/
+
+## Resources
+
+- Website: https://exporo.com/
+- Blog: https://exporo.com/blog
+- Help Center: https://exporo.com/hilfe
+- Wiki / Glossary: https://exporo.com/wiki
+- Careers: https://exporo.com/jobs
+- Terms (AGB): https://exporo.com/agb
+- Privacy (Datenschutz): https://exporo.com/datenschutz
+
+## APIs
+
+- No public API is currently documented by Exporo. This profile is maintained in the API Evangelist network as a company lead; it will be enriched if a developer surface is published.
+
+## Notes
+
+- generated: '2026-07-19'
+- method: generated
+- source: apis.yml + https://exporo.com/ (no provider-published llms.txt; https://exporo.com/llms.txt returned 404)
