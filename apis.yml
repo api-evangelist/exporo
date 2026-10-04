@@ -45,8 +45,8 @@ created: '2026-07-17'
 modified: '2026-07-19'
 tags:
 - Company
-- Financial-Services
-- Real-Estate
+- Financial Services
+- Real Estate
 - Investing
 - Crowdfunding
 - Fintech
@@ -61,6 +61,8 @@ tags_raw:
 - Fintech
 - Renewable Energy
 - Germany
+- Financial-Services
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
